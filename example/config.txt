@@ -1,0 +1,2 @@
+Prefix plugins/BarabasiAlbert/example/
+Plugin BarabasiAlbert inputfile parameters.txt outputfile network.gml
