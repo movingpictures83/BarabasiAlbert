@@ -2,8 +2,8 @@
 # Language: Python
 # Input: TXT
 # Output: GML
-# Tested with: PluMA 1.0, Python 3.6
-# Dependency: Networkx 2.4
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: Networkx 2.2
 
 PluMA plugin that uses the Barabasi-Albert algorithm (Barabasi and Albert, 1999) to compute a random network of a user-specified number of nodes and edges (per node).
 
